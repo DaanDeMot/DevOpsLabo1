@@ -1,0 +1,30 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    padding-left: 5%;
+    padding-bottom: 15px;
+    font-family: "verdana";
+}
+
+section {
+    border: 1px solid black;
+    border-radius: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    width: 45%;
+}
+
+h1{
+    
+    
+}
+
+h2{
+  margin-left: 5px;  
+    
+}
+
+p{
+    margin-left: 25px;
+
+}
