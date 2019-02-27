@@ -9,9 +9,11 @@ body {
 section {
     border: 1px solid black;
     border-radius: 5px;
-    border-radius: 5px;
+    box-shadow: 2px 1px 2px;
     display: inline-block;
     width: 45%;
+    float: left;
+    margin-left: 15px;
 }
 
 h1{
