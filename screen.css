@@ -1,9 +1,20 @@
 body {
+
     width: 80%;
     margin: 0 auto;
-    padding-left: 5%;
+    margin-bottom: 25px;
     padding-bottom: 15px;
     font-family: "verdana";
+}
+
+header{
+    height: 15%;
+    margin-bottom: 5%;
+    margin-top: 1%;
+    padding-top: 1%;
+    border-radius: 5px;
+
+    box-shadow: 1px 1px 1px;
 }
 
 section {
@@ -11,17 +22,25 @@ section {
     border-radius: 5px;
     box-shadow: 2px 1px 2px;
     display: inline-block;
-    width: 45%;
-    float: left;
-    margin-left: 15px;
+    width: 44%;
+    margin-left: 5%;
+    margin-bottom: 45px;
 }
+
+section:nth-child(2){
+    margin-left: 1%;
+}
+
 article {
-    width: 80%;
+    width: 90%;
+    clear: both;
+    text-align: center;
     margin: 0 auto;
     border: 1px solid black;
     border-radius: 5px;
     box-shadow: 2px 1px 2px;
 }
+
 
 footer{
     margin-top: 45%;
@@ -32,6 +51,7 @@ footer{
 }
 
 h1{
+    margin-left: 15px;
     
     
 }
